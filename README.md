@@ -1,6 +1,7 @@
 # vue-i18n-db README
 
-This is the README for your extension "vue-i18n-db". After writing up a brief description, we recommend including the following sections.
+`vue i18n db`는 Oracle, MariaDB 등의 RDB를 이용한 i18n을 지원합니다.   
+DB 접속 후, 사용자가 지정한 쿼리를 통해 다국어 코드를 로딩하고, VS CODE의 화면에 실시간으로 보여줍니다.
 
 ## Features
 

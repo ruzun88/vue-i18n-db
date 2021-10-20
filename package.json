@@ -19,19 +19,6 @@
         "command": "vue-i18n-db.helloWorld",
         "title": "Hello World"
       }
-    ],
-    "languages": [
-      {
-        "id": "vue",
-        "extensions": [".vue"]
-      }
-    ],
-    "grammars": [
-      {
-        "language": "vue",
-        "scopeName": "source.vue",
-        "path": "./syntaxes/abc.tmGrammar.json"
-      }
     ]
   },
   "scripts": {
